@@ -1,4 +1,4 @@
-# Courtyard
+# Courtyard: Full-Stack Campus Shopping System with Python-Django
 
 • Engineered web app with Vue.js front end and Django back end, with Redis for caching and MySQL as persistence.
 
